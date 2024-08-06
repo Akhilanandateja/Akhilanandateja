@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Enthusiast | Full-Stack Developer | Machine Learning & Artificial Intelligence | Professional in WordPress & PHP</h3>
 
 <p align="center">
-  <img class="profile-views" src="https://komarev.com/ghpvc/?username=Akhilanandateja&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" width="400" height="60" />
+  <img class="profile-views" src="https://komarev.com/ghpvc/?username=Akhilanandateja&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" width="300" height="60" />
 </p>
 
 <p align="center">
