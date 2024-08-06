@@ -115,21 +115,3 @@ Email: **akhilanandatejasanga@gmail.com**
 <p align="center">
   I am capable of tackling a variety of projects, from web development to machine learning. Let's collaborate and create something amazing!
 </p>
-
-<style>
-@keyframes pulse {
-  0% {
-    transform: scale(1);
-  }
-  50% {
-    transform: scale(1.1);
-  }
-  100% {
-    transform: scale(1);
-  }
-}
-
-img[alt="Profile Views"] {
-  animation: pulse 2s infinite;
-}
-</style>
