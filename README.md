@@ -1,8 +1,8 @@
-<h1 align="center">Hello 👋, I'm Satkuri Kailash</h1>
+<h1 align="center">Hello 👋, I'm Sanga Akhilanandateja</h1>
 <h3 align="center">Software Engineering Enthusiast | Full-Stack Developer | Machine Learning & Artificial Intelligence | Professional in WordPress & PHP</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satkurikailash&label=Profile%20views&color=0e75b6&style=flat" alt="satkurikailash" width="200" height="60"/>
+  <img src="https://komarev.com/ghpvc/?username=satkurikailash&label=Profile%20views&color=0e75b6&style=flat" alt="Sanga Akhilanandateja" width="200" height="60"/>
 </p>
 
 <p align="center">
@@ -15,20 +15,20 @@
 Advanced Web Development and Machine Learning Techniques
 
 ## 👨‍💻 Projects
-All of my projects are available at [My GitHub Repository](https://github.com/satkurikailash/satkurikailash)
+All of my projects are available at [My GitHub Repository](https://github.com/Akhilanandateja?tab=repositories)
 
 ## 💬 Ask Me About
-C, C++, Python, Machine Learning, Artificial Intelligence, WordPress, PHP Full-Stack Development
+C, Python, Java, Machine Learning, Artificial Intelligence, WordPress, PHP Full-Stack Development
 
 ## 📫 Contact Me
-Email: **satkurikailash@gmail.com**
+Email: **akhilanandatejasanga@gmail.com**
 
 ## 📄 Resume
 [My Resume](https://drive.google.com/file/d/1Z1AvvuW22wCjBYn2UYaOOBNpZSr2b6NT/view?usp=sharing)
 
 <h3 align="center">Connect with Me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/satkuri-kailash" target="blank">
+  <a href="https://www.linkedin.com/in/sanga-akhilanandateja-2296b6294/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
   </a>
   <a href="https://www.hackerrank.com/satkuri-kailash" target="blank">
