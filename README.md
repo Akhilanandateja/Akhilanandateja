@@ -2,12 +2,12 @@
 <h3 align="center">Software Engineering Enthusiast | Full-Stack Developer | Machine Learning & Artificial Intelligence | Professional in WordPress & PHP</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satkurikailash&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" width="200" height="60" style="animation: pulse 2s infinite;" />
+  <img class="profile-views" src="https://komarev.com/ghpvc/?username=Akhilanandateja&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" width="200" height="60" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=satkurikailash&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Akhilanandateja&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@ Email: **akhilanandatejasanga@gmail.com**
 [My Resume](https://drive.google.com/file/d/1Z1AvvuW22wCjBYn2UYaOOBNpZSr2b6NT/view?usp=sharing)
 
 <h3 align="center">Connect with Me</h3>
-<p align="center">
+<p align="center" class="icon-container">
   <a href="https://www.linkedin.com/in/sanga-akhilanandateja-2296b6294/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
@@ -43,7 +43,7 @@ Email: **akhilanandatejasanga@gmail.com**
 </p>
 
 <h3 align="center">Programming Languages</h3>
-<p align="center">
+<p align="center" class="icon-container">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
@@ -56,7 +56,7 @@ Email: **akhilanandatejasanga@gmail.com**
 </p>
 
 <h3 align="center">Development Skills</h3>
-<p align="center">
+<p align="center" class="icon-container">
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
   </a>
@@ -69,7 +69,7 @@ Email: **akhilanandatejasanga@gmail.com**
 </p>
 
 <h3 align="center">Machine Learning & AI</h3>
-<p align="center">
+<p align="center" class="icon-container">
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
   </a>
@@ -85,7 +85,7 @@ Email: **akhilanandatejasanga@gmail.com**
 </p>
 
 <h3 align="center">Other Tools</h3>
-<p align="center">
+<p align="center" class="icon-container">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
@@ -115,3 +115,24 @@ Email: **akhilanandatejasanga@gmail.com**
 <p align="center">
   I am capable of tackling a variety of projects, from web development to machine learning. Let's collaborate and create something amazing!
 </p>
+
+<style>
+.profile-views {
+  animation: rotate 2s linear infinite;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.icon-container a {
+  margin: 0 15px;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+</style>
