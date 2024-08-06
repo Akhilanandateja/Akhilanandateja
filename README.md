@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Enthusiast | Full-Stack Developer | Machine Learning & Artificial Intelligence | Professional in WordPress & PHP</h3>
 
 <p align="center">
-  <img class="profile-views" src="https://komarev.com/ghpvc/?username=Akhilanandateja&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" width="200" height="60" />
+  <img class="profile-views" src="https://komarev.com/ghpvc/?username=Akhilanandateja&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" width="400" height="60" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 
 ## 🌱 Currently Learning
-Advanced Web Development and Machine Learning Techniques
+Advanced Web Development and Java Full Stack
 
 ## 👨‍💻 Projects
 All of my projects are available at [My GitHub Repository](https://github.com/Akhilanandateja?tab=repositories)
@@ -99,24 +99,3 @@ Email: **akhilanandatejasanga@gmail.com**
 <p align="center">
   I am capable of tackling a variety of projects, from web development to machine learning. Let's collaborate and create something amazing!
 </p>
-
-<style>
-.profile-views {
-  animation: rotate 2s linear infinite;
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-.icon-container a {
-  margin: 0 15px;
-}
-
-@keyframes rotate {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(360deg);
-  }
-}
-</style>
