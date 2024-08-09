@@ -30,10 +30,10 @@ Email: **akhilanandatejasanga@gmail.com**
 <p align="center">
   <table align="center">
     <tr>
-      <td><a href="https://linkedin.com/in/satkuri-kailash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="60" width="60" /></a></td>
-      <td><a href="https://www.hackerrank.com/satkuri-kailash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="60" width="60" /></a></td>
-      <td><a href="https://www.leetcode.com/satkuri-kailash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="60" width="60" /></a></td>
-      <td><a href="https://auth.geeksforgeeks.org/user/satkuri-kailash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="60" width="60" /></a></td>
+      <td><a href="https://www.linkedin.com/in/sanga-akhilanandateja-2296b6294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="60" width="60" /></a></td>
+      <td><a href="https://www.hackerrank.com/profile/2203a52173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="60" width="60" /></a></td>
+      <td><a href="https://leetcode.com/u/Akhilanandateja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="60" width="60" /></a></td>
+      <td><a href="https://www.geeksforgeeks.org/user/akhilanandateja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="60" width="60" /></a></td>
     </tr>
   </table>
 </p>
