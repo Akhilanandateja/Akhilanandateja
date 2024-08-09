@@ -24,7 +24,7 @@ C, Python, Java, Machine Learning, Artificial Intelligence, WordPress, PHP Full-
 Email: **akhilanandatejasanga@gmail.com**
 
 ## 📄 Resume
-[My Resume](https://drive.google.com/file/d/1Z1AvvuW22wCjBYn2UYaOOBNpZSr2b6NT/view?usp=sharing)
+[My Resume](https://drive.google.com/file/d/1g9Tlz3g3hedWVOU_axLeQ2ks5ulNiocl/view?usp=sharing)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
