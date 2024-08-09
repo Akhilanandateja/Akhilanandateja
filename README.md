@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhilanandateja Sanga</h1>
-<h3 align="center">A passionate frontend developer froPassionate AIML Student with a Drive for Innovation and Problem-Solvingm India</h3>
+<h3 align="center">A passionate frontend developer froPassionate AIML Student with a Drive for Innovation and Problem-Solving</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilanandateja&label=Profile%20views&color=0e75b6&style=flat" alt="akhilanandateja" /> </p>
 
