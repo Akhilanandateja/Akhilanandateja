@@ -13,7 +13,9 @@
 
 - 📫 How to reach me **akhilanandatejasanga@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1g9Tlz3g3hedWVOU_axLeQ2ks5ulNiocl/view?usp=sharing](https://drive.google.com/file/d/1g9Tlz3g3hedWVOU_axLeQ2ks5ulNiocl/view?usp=sharing)
+- 📄 <a href="https://drive.google.com/file/d/1g9Tlz3g3hedWVOU_axLeQ2ks5ulNiocl/view?usp=sharing" target="_blank">My Resume</a>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
