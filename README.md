@@ -84,10 +84,16 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilanandateja&show_icons=true&locale=en&layout=compact" alt="akhilanandateja" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=akhilanandateja&show_icons=true&locale=en" alt="akhilanandateja" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilanandateja&" alt="akhilanandateja" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilanandateja&show_icons=true&locale=en&layout=compact" alt="akhilanandateja" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=akhilanandateja&show_icons=true&locale=en" alt="akhilanandateja" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilanandateja&" alt="akhilanandateja" />
+    </td>
+  </tr>
+</table>
