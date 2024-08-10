@@ -84,7 +84,7 @@
   </a>
 </p>
 
-<table align="center" style="width: 90%; font-size: 1.2em;">
+<table align="center" style="width: 100%; font-size: 2.1em;">
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilanandateja&show_icons=true&locale=en&layout=compact" alt="akhilanandateja" />
