@@ -1,3 +1,15 @@
+<style>
+  h1, h3, p, a {
+    font-size: 1.2em; /* Increase the font size */
+  }
+  table {
+    width: 100%; /* Make the table wider */
+  }
+  td {
+    padding: 10px; /* Increase padding for each cell */
+  }
+</style>
+
 <h1 align="center">Hi 👋, I'm Akhilanandateja Sanga</h1>
 <h3 align="center">Student at SR University | A passionate frontend developer | An AIML Student with a Drive for Innovation and Problem-Solving</h3>
 
@@ -84,15 +96,15 @@
   </a>
 </p>
 
-<table align="center">
+<table align="center" style="width: 90%; font-size: 1.2em;">
   <tr>
-    <td>
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilanandateja&show_icons=true&locale=en&layout=compact" alt="akhilanandateja" />
     </td>
-    <td>
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=akhilanandateja&show_icons=true&locale=en" alt="akhilanandateja" />
     </td>
-    <td>
+    <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilanandateja&" alt="akhilanandateja" />
     </td>
   </tr>
