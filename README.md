@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Akhilanandateja Sanga</h1>
-<p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
   </a>
@@ -40,14 +39,13 @@
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilanandateja&show_icons=true&locale=en&layout=compact" alt="akhilanandateja" />
     </td>
+  </tr>
+<tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=akhilanandateja&show_icons=true&locale=en" alt="akhilanandateja" />
     </td>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilanandateja&" alt="akhilanandateja" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-repositories?username=akhilanandateja&show_icons=true&locale=en" alt="recent-repos" />
     </td>
   </tr>
 </table>
