@@ -27,15 +27,19 @@
 <table align="center" style="width: 100%; font-size: 2.1em;">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilanandateja&show_icons=true&locale=en&layout=compact" alt="akhilanandateja" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilanandateja&show_icons=true&locale=en&layout=compact" alt="top-langs" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=akhilanandateja&show_icons=true&locale=en" alt="github-stats" />
     </td>
   </tr>
 <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=akhilanandateja&show_icons=true&locale=en" alt="akhilanandateja" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilanandateja&" alt="streak-stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilanandateja&" alt="akhilanandateja" />
+      <img src="https://github-readme-stats.vercel.app/api/top-repositories?username=akhilanandateja&show_icons=true&locale=en" alt="recent-repos" />
     </td>
   </tr>
 </table>
+
