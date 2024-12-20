@@ -15,6 +15,9 @@
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1g9Tlz3g3hedWVOU_axLeQ2ks5ulNiocl/view?usp=sharing)
 
+- 🌐 Check out my portfolio [My Portfolio](https://akhilanandateja.github.io/portfolio/)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sanga akhilanandateja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanga akhilanandateja" height="30" width="40" /></a>
