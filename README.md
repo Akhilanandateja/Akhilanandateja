@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhilanandateja Sanga</h1>
-<h3 align="center">A passionate frontend developer froPassionate AIML Student with a Drive for Innovation and Problem-Solvingm India</h3>
+<h3 align="center">A passionate frontend developer froPassionate AIML Student with a Drive for Innovation and Problem-Solving</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilanandateja&label=Profile%20views&color=0e75b6&style=flat" alt="akhilanandateja" /> </p>
 
@@ -36,13 +36,6 @@
       <img src="https://github-readme-stats.vercel.app/api?username=akhilanandateja&show_icons=true&locale=en" alt="github-stats" />
     </td>
   </tr>
-<tr>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilanandateja&" alt="streak-stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-repositories?username=akhilanandateja&show_icons=true&locale=en" alt="recent-repos" />
-    </td>
-  </tr>
+
 </table>
 
