@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"> <span style="color:#FF5733">Hi 👋, I'm AKhilanandateja Sanga</span> </h1>
-<h3 align="center"> <span style="color:#33FF57">A Passionate Machine Learning Developer</span> </h3>
+<h3 align="center"> <span style="color:#33FF57">A Passionate AIML Student</span> </h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Machine+Learning+Developer;AI/ML+Engineer;PHP+Full+Stack+Developer;Generative+AI+Enthusiast;Full+Stack+Developer" alt="Typing Animation" />
 </p>
@@ -75,7 +75,6 @@
 ### 🌐 IoT Tools
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi)
 
 ---
 
@@ -84,7 +83,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhilanandateja&theme=react-dark"/>
 </p>
-<img src="https://raw.githubusercontent.com/KailashSatkuri-warangal/Akhilanandateja/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Akhilanandateja/output/snake.svg" alt="Snake animation" />
 ---
 
 ### 🎯 Profile Badges
