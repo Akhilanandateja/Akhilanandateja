@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on **[Artificial Intelligence and Machine Learning]((https://github.com/Akhilanandateja/))**
 - 🌱 I’m learning **Advanced Web Development & ML Techniques**
-- 📄 Know more: [My Resume]((https://drive.google.com/file/d/1g9Tlz3g3hedWVOU_axLeQ2ks5ulNiocl/view?usp=drive_link)) | [My Portfolio](https://akhilanandateja.github.io/portfolio/))
+- 📄 Know more: [My Resume](https://drive.google.com/file/d/1g9Tlz3g3hedWVOU_axLeQ2ks5ulNiocl/view?usp=drive_link) | [My Portfolio](https://akhilanandateja.github.io/portfolio/))
 - 💬 Ask me about **C, C++, Python, AI, ML, Full-Stack Development**
 - 📫 Reach me at **akhilanandatejasanga@gmail.com**
 
