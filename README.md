@@ -83,7 +83,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhilanandateja&theme=react-dark"/>
 </p>
-<img src="https://raw.githubusercontent.com/Akhilanandateja/output/snake.svg" alt="Snake animation" />
 ---
 
 ### 🎯 Profile Badges
