@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ240ZDBzenF4dzljbmdnMXZxc21pM253ZjZnc2Frem1tbW1tcDMydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jY0nfdu6tU9bzey8kB/giphy.gif" alt="Header" width="1000" height="200"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGM3eWZpYjFzd25mZDUxMDh2bzNtNnR1aGs1YmpvdDlycThhaXRkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnx37nc3vjsdeLK/giphy.gif" alt="Header" width="1000" height="200"/>
 </p>
 <h1 align="center"> <span style="color:#FF5733">Hi 👋, I'm AKhilanandateja Sanga</span> </h1>
 <h3 align="center"> <span style="color:#33FF57">A Passionate AIML Student</span> </h3>
