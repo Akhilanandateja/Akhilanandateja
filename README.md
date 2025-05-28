@@ -1,66 +1,122 @@
-<h1 align="center">Hi 👋, I'm Akhilanandateja Sanga</h1>
-<h3 align="center">🎓 Passionate AIML Student | 💻 Frontend Developer | 💡 Driven by Innovation and Problem-Solving</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akhilanandateja&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://i.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="Header" width="1000" height="200"/>
+</p>
+
+<h1 align="center"> <span style="color:#FF5733">Hi 👋, I'm AKhilanandateja Sanga</span> </h1>
+<h3 align="center"> <span style="color:#33FF57">A Passionate Machine Learning Developer</span> </h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Machine+Learning+Developer;AI/ML+Engineer;PHP+Full+Stack+Developer;Generative+AI+Enthusiast;Full+Stack+Developer" alt="Typing Animation" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Akhilanandateja&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=akhilanandateja&theme=algolia" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Akhilanandateja&margin-w=5&no-bg=true&theme=nord" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on **[Artificial Intelligence and Machine Learning]((https://github.com/Akhilanandateja/))**
+- 🌱 I’m learning **Advanced Web Development & ML Techniques**
+- 📄 Know more: [My Resume]((https://drive.google.com/file/d/1g9Tlz3g3hedWVOU_axLeQ2ks5ulNiocl/view?usp=drive_link)) | [My Portfolio](https://akhilanandateja.github.io/portfolio/))
+- 💬 Ask me about **C, C++, Python, AI, ML, Full-Stack Development**
+- 📫 Reach me at **akhilanandatejasanga@gmail.com**
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="(https://www.linkedin.com/in/akhilanandateja-sanga-2296b6294/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="(https://github.com/Akhilanandateja/)">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="(https://leetcode.com/u/Akhilanandateja/)">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+  </a>
+  <a href="(https://www.hackerrank.com/profile/Akhilanandateja)">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank"/>
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
+## 🛠️ Skills
 
-- 🌱 I’m currently learning **Java, Full Stack Web Development, and DSA**
-- 💬 Ask me about **C, Python, SQL, Java**
-- 📫 Reach me at: **akhilanandatejasanga@gmail.com**
-- 📄 [My Resume](https://drive.google.com/file/d/1g9Tlz3g3hedWVOU_axLeQ2ks5ulNiocl/view?usp=sharing)
-- 🌐 [My Portfolio](https://akhilanandateja.github.io/portfolio/)
+### 💻 Programming Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 📚 Frameworks & Libraries
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+
+### 🌐 IoT Tools
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi)
 
 ---
 
-### 🤝 Connect with me
+## 📈 Contribution Graph
 
-<p align="left">
-  <a href="https://linkedin.com/in/sanga-akhilanandateja" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/akhilanandateja" target="_blank">
-    <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/hackerrank-3629284-3032220.png" alt="HackerRank" height="30" width="40" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhilanandateja&theme=react-dark"/>
+</p>
+<img src="https://raw.githubusercontent.com/KailashSatkuri-warangal/Akhilanandateja/output/snake.svg" alt="Snake animation" />
+---
+
+### 🎯 Profile Badges
+
+![GitHub followers](https://img.shields.io/github/followers/Akhilanandateja?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Akhilanandateja?style=social)
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
+
+<!--<p align="center">
+  <img src="https://profile-counter.glitch.me/kailashsatkuri-warangal/count.svg" />
+</p>
+
+ ## 🌄 My GitHub Skyline (3D Contribution Graph)
+
+<p align="center">
+  <a href="https://github.com/kailashsatkuri-warangal/3D-Skyline/blob/main/skyline-2023.stl">
+    <img src="https://img.shields.io/badge/Download%203D%20Skyline%20STL-FFA500?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
----
-
-### 🛠️ Languages & Tools
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
+### 🌟 Preview  
+<p align="center">
+  <img src="<IMAGE_URL>" alt="GitHub Skyline 3D Preview" width="800"/>
+</p> -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhilanandateja&show_icons=true&theme=radical" alt="Akhilanandateja's GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilanandateja&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 📈 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilanandateja&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="mailto:akhilanandatejasanga@gmail.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFA500&width=435&lines=Looking+for+Internship!;Open+to+Full-Time+Opportunities!" alt="Hire Me"/>
+  </a>
 </p>
