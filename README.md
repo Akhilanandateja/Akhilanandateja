@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHM1eHNtOTBiMXluOTZzMmlwanJvZjE1emU0czhicXhoeGQ0aTRjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GsxDnh135hJnHDl4e9/giphy.gif]" alt="Header" width="1000" height="200"/>
+  <img src="https://media.giphy.com/media/GsxDnh135hJnHDl4e9/giphy.gif" alt="Header" width="1000" height="200"/>
 </p>
-
 <h1 align="center"> <span style="color:#FF5733">Hi 👋, I'm AKhilanandateja Sanga</span> </h1>
 <h3 align="center"> <span style="color:#33FF57">A Passionate AIML Student</span> </h3>
 <p align="center">
