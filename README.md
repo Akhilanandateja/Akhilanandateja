@@ -96,23 +96,17 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 
-<!--<p align="center">
-  <img src="https://profile-counter.glitch.me/kailashsatkuri-warangal/count.svg" />
-</p>
+---
 
- ## 🌄 My GitHub Skyline (3D Contribution Graph)
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/kailashsatkuri-warangal/3D-Skyline/blob/main/skyline-2023.stl">
-    <img src="https://img.shields.io/badge/Download%203D%20Skyline%20STL-FFA500?style=for-the-badge&logo=github"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=akhilanandateja&show_icons=true&theme=radical" alt="Akhilanandateja's GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilanandateja&theme=radical" alt="GitHub Streak" />
 </p>
 
-### 🌟 Preview  
-<p align="center">
-  <img src="<IMAGE_URL>" alt="GitHub Skyline 3D Preview" width="800"/>
-</p> -->
-
+---
 <p align="center">
   <a href="mailto:akhilanandatejasanga@gmail.com">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFA500&width=435&lines=Looking+for+Internship!;Open+to+Full-Time+Opportunities!" alt="Hire Me"/>
