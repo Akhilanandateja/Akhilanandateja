@@ -5,7 +5,7 @@
 <h1 align="center"> <span style="color:#FF5733">Hi 👋, I'm AKhilanandateja Sanga</span> </h1>
 <h3 align="center"> <span style="color:#33FF57">A Passionate AIML Student</span> </h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Machine+Learning+Developer;AI/ML+Engineer;PHP+Full+Stack+Developer;Generative+AI+Enthusiast;Full+Stack+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Machine+Learning+Developer;AI/ML+Engineer;PHP+Full+Stack+Developer;Full+Stack+Developer" alt="Typing Animation" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Akhilanandateja&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
