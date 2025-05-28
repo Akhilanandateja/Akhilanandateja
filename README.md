@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="Header" width="1000" height="200"/>
+  <img src="(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhkYnB4cnFzY3hvaGNwc3drdWR6a3ZmZTJnZm02a2IzNTd1eXA0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7VzgMsB6FLCilwS30v/giphy.gif)" alt="Header" width="1000" height="200"/>
 </p>
 
 <h1 align="center"> <span style="color:#FF5733">Hi 👋, I'm AKhilanandateja Sanga</span> </h1>
