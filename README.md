@@ -1,13 +1,26 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ240ZDBzenF4dzljbmdnMXZxc21pM253ZjZnc2Frem1tbW1tcDMydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jY0nfdu6tU9bzey8kB/giphy.gif" alt="Header" width="1000" height="200"/>
+
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ240ZDBzenF4dzljbmdnMXZxc21pM253ZjZnc2Frem1tbW1tcDMydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jY0nfdu6tU9bzey8kB/giphy.gif" alt="Header" width="1000" height="200"/>
+
 </p>
-<h1 align="center"> <span style="color:#FF5733">Hi 👋, I'm AKhilanandateja Sanga</span> </h1>
-<h3 align="center"> <span style="color:#33FF57">A Passionate AIML Student</span> </h3>
+
+<div align="center">
+  <h1>
+    Hi there, I'm Akhilanandateja Sanga 👋
+  </h1>
+  <h3>Results-Oriented CS Student | Python Full-Stack Developer | Aspiring AI/ML Engineer</h3>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Python+Full-Stack+Developer;Machine+Learning+Engineer;AWS+%26+Azure+Certified;Ready+to+Innovate" alt="Typing Animation" />
+</div>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Machine+Learning+Developer;AI/ML+Engineer;PHP+Full+Stack+Developer;Full+Stack+Developer" alt="Typing Animation" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akhilanandateja&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <a href="https://www.linkedin.com/in/akhilanandateja-sanga-2296b6294/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Akhilanandateja/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://leetcode.com/u/Akhilanandateja/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.hackerrank.com/profile/Akhilanandateja"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+  <a href="https://komarev.com/ghpvc/?username=Akhilanandateja"><img src="https://komarev.com/ghpvc/?username=Akhilanandateja&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/></a>
 </p>
 
 <p align="center">
@@ -16,106 +29,138 @@
 
 ---
 
-## 🚀 About Me
-
-- 🔭 I’m currently working on **[Artificial Intelligence and Machine Learning]((https://github.com/Akhilanandateja/))**
-- 🌱 I’m learning **Advanced Web Development & ML Techniques**
-- 📄 Know more: [My Resume](https://drive.google.com/file/d/1g9Tlz3g3hedWVOU_axLeQ2ks5ulNiocl/view?usp=drive_link) | [My Portfolio](https://akhilanandateja.github.io/portfolio/))
-- 💬 Ask me about **Python, Java, C, C# AI, ML, Full-Stack Development**
-- 📫 Reach me at **akhilanandatejasanga@gmail.com**
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="(https://www.linkedin.com/in/akhilanandateja-sanga-2296b6294/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="(https://github.com/Akhilanandateja/)">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="(https://leetcode.com/u/Akhilanandateja/)">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-  </a>
-  <a href="(https://www.hackerrank.com/profile/Akhilanandateja)">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank"/>
-  </a>
-</p>
+### 🚀 About Me
+- 💡 A results-oriented Computer Science student with a passion for building full-stack applications and practical machine learning models.
+- 🔭 I’m currently developing projects in **Sentiment Analysis** and **Deep Learning** for real-world applications.
+- 🌱 Focused on learning **Advanced NLP Techniques** and **Deploying Scalable Cloud Solutions**.
+- 💬 Ask me about: `Python`, `Machine Learning`, `Full-Stack Development`, `AWS`, and `Azure`.
+- 📫 How to reach me: **akhilanandatejasanga@gmail.com**
+- 📄 Check out my work: [**My Resume**](https://drive.google.com/file/d/1g9Tlz3g3hedWVOU_axLeQ2ks5ulNiocl/view?usp=drive_link) | [**My Portfolio**](https://akhilanandateja.github.io/portfolio/)
 
 ---
 
-## 🛠️ Skills
+### 🌟 Spotlight on Projects
 
-### 💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
-
-### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 📚 Frameworks & Libraries
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-
-### 🛠️ Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-
-### 🌐 IoT Tools
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhilanandateja&theme=react-dark"/>
-</p>
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</p>
+<table width="100%">
+  <tr valign="top">
+    <td width="50%">
+      <div style="background-color: #1a1b27; border: 1px solid #30363d; padding: 15px; border-radius: 10px;">
+        <h3><a href="https://github.com/Akhilanandateja/">Customer Review Analysis</a></h3>
+        <p>Engineered a sentiment analysis tool using NLP and ML to categorize over 1,500 e-commerce reviews, delivering actionable insights on product dissatisfaction to businesses.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+          <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+          <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <div style="background-color: #1a1b27; border: 1px solid #30363d; padding: 15px; border-radius: 10px;">
+        <h3><a href="https://github.com/Akhilanandateja/">Potato Leaf Disease Detection</a></h3>
+        <p>Built and trained a CNN with TensorFlow to classify potato leaf diseases from images, achieving a 96% precision rate. Applied transfer learning to enhance performance on a limited dataset.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+          <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
+### 🛠️ My Tech Stack
 
-<div align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilanandateja&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="Top Languages" height="150"/>
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akhilanandateja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=7200" alt="GitHub Stats" height="150"/>
-</a>
-
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Akhilanandateja&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
-</a>
-
-</div>
-
-### 🎯 Profile Badges
-
-![GitHub followers](https://img.shields.io/github/followers/Akhilanandateja?style=social)
-![GitHub stars](https://img.shields.io/github/stars/Akhilanandateja?style=social)
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h4>🧠 Programming, AI & ML</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+        <br>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+        <br>
+        <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+      </p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h4>🌐 Web Dev & Databases</h4>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <br>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+        <br>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      </p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h4>☁️ Cloud, Tools & Platforms</h4>
+      <p>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+        <br>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        <br>
+        <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
-<p align="center">
-  <a href="mailto:akhilanandatejasanga@gmail.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFA500&width=435&lines=Looking+for+Internship!;Open+to+Full-Time+Opportunities!" alt="Hire Me"/>
-  </a>
-</p>
+
+### 📊 GitHub Statistics
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Akhilanandateja/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilanandateja&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="Top Languages"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Akhilanandateja/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Akhilanandateja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=7200" alt="GitHub Stats"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img src="https://streak-stats.demolab.com?user=Akhilanandateja&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhilanandateja&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 Achievements & Experience
+
+- 🎓 **PHP Full Stack Developer Fellowship** | *Monosage*
+  - Engineered a RESTful API with PHP and MySQL, boosting data retrieval speeds by 60% for 500+ monthly active users.
+- 👨‍💻 **Python Full Stack Developer Intern** | *AICTE - EduSkills (Virtual)*
+  - Built and delivered a fully functional car booking website within the two-month internship period.
+- 📜 **Certifications**
+  - **Microsoft Certified: Azure Fundamentals**.
+  - **AWS Academy Graduate: AWS Cloud Foundations**.
+- 🏆 **Certificate of Appreciation for Academic Excellence** | *SR University*.
