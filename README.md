@@ -189,3 +189,9 @@
   - **Microsoft Certified: Azure Fundamentals**.
   - **AWS Academy Graduate: AWS Cloud Foundations**.
 - 🏆 **Certificate of Appreciation for Academic Excellence** | *SR University*.
+
+<p align="center">
+  <a href="mailto:akhilanandatejasanga@gmail.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFA500&width=435&lines=Looking+for+Internship!;Open+to+Full-Time+Opportunities!" alt="Hire Me"/>
+  </a>
+</p>
