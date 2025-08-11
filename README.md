@@ -106,10 +106,6 @@
   <img src="https://streak-stats.demolab.com?user=Akhilanandateja&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
 </a>
 
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhilanandateja&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" height="300"/>
-</a>
-
 </div>
 
 ### 🎯 Profile Badges
