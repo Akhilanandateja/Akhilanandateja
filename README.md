@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on **[Artificial Intelligence and Machine Learning]((https://github.com/Akhilanandateja/))**
 - 🌱 I’m learning **Advanced Web Development & ML Techniques**
 - 📄 Know more: [My Resume](https://drive.google.com/file/d/1g9Tlz3g3hedWVOU_axLeQ2ks5ulNiocl/view?usp=drive_link) | [My Portfolio](https://akhilanandateja.github.io/portfolio/))
-- 💬 Ask me about **C, C++, Python, AI, ML, Full-Stack Development**
+- 💬 Ask me about **Python, Java, C, C# AI, ML, Full-Stack Development**
 - 📫 Reach me at **akhilanandatejasanga@gmail.com**
 
 ---
@@ -49,10 +49,10 @@
 
 ### 💻 Programming Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
 
 ### 🗄️ Databases
 
