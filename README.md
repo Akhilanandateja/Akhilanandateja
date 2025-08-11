@@ -1,7 +1,5 @@
 <p align="center">
-
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ240ZDBzenF4dzljbmdnMXZxc21pM253ZjZnc2Frem1tbW1tcDMydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jY0nfdu6tU9bzey8kB/giphy.gif" alt="Header" width="1000" height="200"/>
-
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ240ZDBzenF4dzljbmdnMXZxc21pM253ZjZnc2Frem1tbW1tcDMydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jY0nfdu6tU9bzey8kB/giphy.gif" alt="Header" width="1000" height="200"/>
 </p>
 
 <div align="center">
@@ -35,7 +33,7 @@
 - 🌱 Focused on learning **Advanced NLP Techniques** and **Deploying Scalable Cloud Solutions**.
 - 💬 Ask me about: `Python`, `Machine Learning`, `Full-Stack Development`, `AWS`, and `Azure`.
 - 📫 How to reach me: **akhilanandatejasanga@gmail.com**
-- 📄 Check out my work: [**My Resume**](https://drive.google.com/file/d/1g9Tlz3g3hedWVOU_axLeQ2ks5ulNiocl/view?usp=drive_link) | [**My Portfolio**](https://akhilanandateja.github.io/portfolio/)
+- 📄 Check out my work: [**My Resume**](https://drive.google.com/file/d/1g9Tlz3g3hedWVOU_axLeQ2ks5ulNiocl/view?usp=drive_link) | [**My Portfolio**](https://akhilanandateja.github.io/Personal-Portfolio/)
 
 ---
 
@@ -45,25 +43,49 @@
   <tr valign="top">
     <td width="50%">
       <div style="background-color: #1a1b27; border: 1px solid #30363d; padding: 15px; border-radius: 10px;">
-        <h3><a href="https://github.com/Akhilanandateja/">Customer Review Analysis</a></h3>
-        <p>Engineered a sentiment analysis tool using NLP and ML to categorize over 1,500 e-commerce reviews, delivering actionable insights on product dissatisfaction to businesses.</p>
+        <h3><a href="https://github.com/Akhilanandateja/Ecommerce-Review-Sentiment-Analyzer">E-commerce Review Analyzer</a> <a href="https://ecommerce-r52a.onrender.com/">🚀</a></h3>
+        <p>Developed using Python and NLTK for accurate sentiment analysis, with a Flask and HTML web interface for interactive data visualization.</p>
         <p align="center">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-          <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-          <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-          <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+          <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="NLTK"/>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
         </p>
       </div>
     </td>
     <td width="50%">
       <div style="background-color: #1a1b27; border: 1px solid #30363d; padding: 15px; border-radius: 10px;">
-        <h3><a href="https://github.com/Akhilanandateja/">Potato Leaf Disease Detection</a></h3>
-        <p>Built and trained a CNN with TensorFlow to classify potato leaf diseases from images, achieving a 96% precision rate. Applied transfer learning to enhance performance on a limited dataset.</p>
+        <h3><a href="https://github.com/Akhilanandateja/Potato-Leaf-Disease-Detection">Potato Leaf Disease Detection</a></h3>
+        <p>A deep learning model using CNN and ResNet50 to classify potato leaf images as "Healthy" or "Late Blight" with high accuracy.</p>
         <p align="center">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
           <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
           <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="50%">
+      <div style="background-color: #1a1b27; border: 1px solid #30363d; padding: 15px; border-radius: 10px;">
+        <h3><a href="https://github.com/Akhilanandateja/MilesSmiles-CarTravel">Miles & Smiles Website</a> <a href="https://miles-smiles.wuaze.com/">🚀</a></h3>
+        <p>A user-friendly car rental site where users can filter cars, book by location/date, manage their profile, and view booking history.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <div style="background-color: #1a1b27; border: 1px solid #30363d; padding: 15px; border-radius: 10px;">
+        <h3><a href="https://github.com/Akhilanandateja/Smart-Wearable-Health-Monitor">Smart Health Monitor</a> <a href="https://smart-wearable-health-monitoring-system.onrender.com/">🚀</a></h3>
+        <p>A system for real-time health metric tracking using Python and Scikit-learn, featuring a Flask web interface for data visualization.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+          <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
         </p>
       </div>
     </td>
@@ -95,7 +117,7 @@
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <img src="https.img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
         <br>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
