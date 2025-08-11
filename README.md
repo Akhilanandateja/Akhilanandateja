@@ -94,20 +94,22 @@
 
 <div align="center">
 
+<!-- Top Languages -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="dist/top-langs.svg" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilanandateja&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
 </a>
 
+<!-- Stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="dist/github-stats.svg" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akhilanandateja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
 </a>
 
+<!-- Streak Stats -->
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="dist/streak-stats.svg" alt="GitHub Streak" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Akhilanandateja&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
 </a>
 
 </div>
----
 
 ### 🎯 Profile Badges
 
