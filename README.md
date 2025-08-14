@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akhilanandateja-sanga-2296b6294/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/Akhilanandateja/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/Akhilanandateja/"><img src="https://img.shields.io/badge/?style=for-the-badge&logo=github&logoColor=white" alt="Porfolio"/></a>
   <a href="https://leetcode.com/u/Akhilanandateja/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://www.hackerrank.com/profile/Akhilanandateja"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
   <a href="https://komarev.com/ghpvc/?username=Akhilanandateja"><img src="https://komarev.com/ghpvc/?username=Akhilanandateja&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/></a>
