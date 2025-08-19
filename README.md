@@ -165,29 +165,28 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Akhilanandateja/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilanandateja&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilanandateja&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Akhilanandateja/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=Akhilanandateja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Akhilanandateja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img src="https://streak-stats.demolab.com?user=Akhilanandateja&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak"/>
+        <img src="https://streak-stats.demolab.com?user=Akhilanandateja&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak"/>
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://git.io/streak-stats">
+      <a href="git.io/streak-stats">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhilanandateja&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
       </a>
     </td>
   </tr>
 </table>
-
 ---
 
 ### 🏆 Achievements & Experience
