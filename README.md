@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>
-    Hi there, I'm Akhilanandateja Sanga 👋😊
+    Hi there, I'm Akhilanandateja Sanga 👋
   </h1>
   <h3>Results-Oriented CS Student | Python Full-Stack Developer | Aspiring AI/ML Engineer</h3>
 </div>
