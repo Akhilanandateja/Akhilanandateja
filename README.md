@@ -161,32 +161,24 @@
 
 ### 📊 GitHub Statistics
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Akhilanandateja/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilanandateja&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Akhilanandateja/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=Akhilanandateja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img src="https://streak-stats.demolab.com?user=Akhilanandateja&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak"/>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="git.io/streak-stats">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhilanandateja&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Akhilanandateja">
+    <img src="https://github-readme-stats.vercel.app/api?username=Akhilanandateja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/Akhilanandateja">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilanandateja&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Akhilanandateja&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
+  </a>
+  <a href="https://github.com/Akhilanandateja">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhilanandateja&theme=react-dark&hide_border=true&area=true" height="150" alt="Contribution Graph"/>
+  </a>
+</p>
+
 ---
 
 ### 🏆 Achievements & Experience
