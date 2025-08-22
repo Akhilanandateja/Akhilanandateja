@@ -159,23 +159,21 @@
 
 ---
 
-### 📊 GitHub Statistics
-
 <p align="center">
   <a href="https://github.com/Akhilanandateja">
-    <img src="https://github-readme-stats.vercel.app/api?username=Akhilanandateja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Akhilanandateja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="150" width="495" loading="lazy" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/Akhilanandateja">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilanandateja&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilanandateja&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150" width="320" loading="lazy" alt="Top Languages"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Akhilanandateja&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=Akhilanandateja&theme=tokyonight&hide_border=true" height="150" width="490" loading="lazy" alt="GitHub Streak"/>
   </a>
   <a href="https://github.com/Akhilanandateja">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhilanandateja&theme=react-dark&hide_border=true&area=true" height="150" alt="Contribution Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhilanandateja&theme=react-dark&hide_border=true&area=true" height="150" width="885" loading="lazy" alt="Contribution Graph"/>
   </a>
 </p>
 
