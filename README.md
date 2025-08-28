@@ -32,12 +32,9 @@
 
 </p>
 
----
-
-### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akhilanandateja&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Akhilanandateja&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6&cache_buster=1" alt="GitHub Trophies"/>
 </p>
 
 
@@ -164,25 +161,23 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Akhilanandateja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=3600" height="180" alt="GitHub Stats"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilanandateja&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" height="180" alt="Top Languages"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=Akhilanandateja&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhilanandateja&theme=react-dark&hide_border=true&area=true" height="180" alt="Contribution Graph"/>
-    </td>
-  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Akhilanandateja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=3600&cache_buster=1" height="180" alt="GitHub Stats"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilanandateja&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" height="180" alt="Top Languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=Akhilanandateja&theme=tokyonight&hide_border=true&cache_buster=1" height="180" alt="GitHub Streak"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhilanandateja&theme=react-dark&hide_border=true&area=true" height="180" alt="Contribution Graph"/>
+    </td>
+  </tr>
 </table>
 
 
