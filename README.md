@@ -158,6 +158,7 @@
 </table>
 
 ---
+### 📊 GitHub Stats
 
 <table align="center">
   <tr>
