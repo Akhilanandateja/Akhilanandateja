@@ -162,21 +162,22 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Akhilanandateja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Akhilanandateja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" width="400" height="200"/>
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=Akhilanandateja&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilanandateja&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" width="400" height="200"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilanandateja&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages"/>
+      <img src="https://streak-stats.demolab.com?user=Akhilanandateja&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="400" height="200"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhilanandateja&theme=react-dark&hide_border=true&area=true&cache_seconds=86400" alt="Contribution Graph"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhilanandateja&theme=react-dark&hide_border=true&area=true&cache_seconds=86400" alt="Contribution Graph" width="400" height="200"/>
     </td>
   </tr>
 </table>
+
 
 ---
 
