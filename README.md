@@ -6,7 +6,7 @@
   <h1>
     Hi there, I'm Akhilananda Teja Sanga 👋
   </h1>
-  <h3>Results-Oriented CS Student | Python Full-Stack Developer | Aspiring AI/ML Engineer</h3>
+  <h3>Results-Oriented CS Student | Python | Full-Stack Developer | Aspiring AI/ML Engineer</h3>
 </div>
 
 <div align="center">
