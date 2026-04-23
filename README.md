@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>
-    Hi there, I'm Akhilanandateja Sanga 👋
+    Hi there, I'm Akhilananda Teja Sanga 👋
   </h1>
   <h3>Results-Oriented CS Student | Python Full-Stack Developer | Aspiring AI/ML Engineer</h3>
 </div>
@@ -32,9 +32,7 @@
 
 </p>
 
-
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🚀 About Me
 - 💡 A results-oriented Computer Science student with a passion for building full-stack applications and practical machine learning models.
@@ -44,7 +42,7 @@
 - 📫 How to reach me: **akhilanandatejasanga@gmail.com**
 - 📄 Check out my work: [**My Resume**](https://drive.google.com/file/d/1g9Tlz3g3hedWVOU_axLeQ2ks5ulNiocl/view?usp=drive_link) | [**My Portfolio**](https://akhilanandateja.github.io/Personal-Portfolio/)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🛠️ My Tech Stack
 
@@ -94,7 +92,6 @@
   </tr>
 </table>
 
----
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 My GitHub Pulse
@@ -115,8 +112,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
----
-
 ### 🏆 Achievements & Experience
 
 - 🎓 **PHP Full Stack Developer Fellowship** | *Monosage*
@@ -130,7 +125,7 @@
 
 <p align="center">
   <a href="mailto:akhilanandatejasanga@gmail.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFA500&width=435&lines=Looking+for+Internship!;Open+to+Full-Time+Opportunities!" alt="Hire Me"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFA500&width=435&lines=Open+to+Full-Time+Opportunities!" alt="Hire Me"/>
   </a>
 </p>
 
