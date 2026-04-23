@@ -95,10 +95,24 @@
 </table>
 
 ---
-## 📊 GitHub Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 📊 My GitHub Pulse
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilanandateja&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="Top Languages"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=Akhilanandateja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=7200" alt="GitHub Stats"/>
+</div>
+<br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Akhilanandateja&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhilanandateja&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph"/>
+</div>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akhilanandateja&theme=react-dark&hide_border=true)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ---
