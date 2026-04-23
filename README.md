@@ -40,7 +40,7 @@
 - 🌱 Focused on learning **Advanced NLP Techniques** and **Deploying Scalable Cloud Solutions**.
 - 💬 Ask me about: `Python`, `Java`, `C`, `C#`, `Machine Learning`, `Full-Stack Development`, `AWS`, and `Azure`.
 - 📫 How to reach me: **akhilanandatejasanga@gmail.com**
-- 📄 Check out my work: [**My Resume**](https://drive.google.com/file/d/1g9Tlz3g3hedWVOU_axLeQ2ks5ulNiocl/view?usp=drive_link) | [**My Portfolio**](https://akhilanandateja.github.io/Personal-Portfolio/)
+- 📄 Check out my work: [**My Resume**]([https://drive.google.com/file/d/1g9Tlz3g3hedWVOU_axLeQ2ks5ulNiocl/view?usp=drive_link](https://drive.google.com/file/d/1yVu6gxHdZKXBO_zfHP1e8mp24NXjkCAT/view)) | [**My Portfolio**](https://akhilanandateja.github.io/Personal-Portfolio/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
