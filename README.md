@@ -38,7 +38,7 @@
 - 💡 A results-oriented Computer Science student with a passion for building full-stack applications and practical machine learning models.
 - 🔭 I’m currently developing projects in **Sentiment Analysis** and **Deep Learning** for real-world applications.
 - 🌱 Focused on learning **Advanced NLP Techniques** and **Deploying Scalable Cloud Solutions**.
-- 💬 Ask me about: `Python`, `Java`, `C`, `C#`, `Machine Learning`, `Full-Stack Development`, `AWS`, and `Azure`.
+- 💬 Ask me about: `Python`, `Java`, `C`, `Machine Learning`, `Full-Stack Development`, `AWS`, and `Azure`.
 - 📫 How to reach me: **akhilanandatejasanga@gmail.com**
 - 📄 Check out my work: [**My Resume**](https://drive.google.com/file/d/1yVu6gxHdZKXBO_zfHP1e8mp24NXjkCAT/view) | [**My Portfolio**](https://akhilanandateja.github.io/Personal-Portfolio/)
 
